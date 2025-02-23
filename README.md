@@ -90,13 +90,7 @@ Explore my projects and code on GitHub:
 
 ## 📞 **Let’s Connect!**  
 I’m always open to new opportunities and collaborations. Feel free to reach out:  
-- **Email**: [Your Email]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **Phone**: [Your Phone Number]  
-
----
-
-### **Visual Enhancements**:  
-- **Badges**: Used GitHub badges to highlight skills and certifications.  
-- **Icons**: Added icons for visual appeal (e.g., the Data Analyst logo).  
-- **Links**: Made project links more interactive with badges.  
+- **Email**: [Gmail Link](omarrageb341@gmail.com)  
+- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/omar-rageb) 
+- **Phone**: [01005506286]  
+ 
