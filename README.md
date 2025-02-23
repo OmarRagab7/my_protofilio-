@@ -1,5 +1,5 @@
 # Data Analyst | BI Developer  
-![Data Analyst Logo](https://img.icons8.com/color/48/000000/data-configuration.png)  
+![Data Analyst Logo](https://img.icons8.com/color/48/000000/data-configuration.png) 
 
 ## 👤 Profile  
 Highly motivated and detail-oriented Data Analyst with expertise in data analysis, visualization, and business intelligence. Skilled in extracting actionable insights from complex datasets to drive data-driven decision-making. Proficient in advanced analytical tools and techniques, with a commitment to continuous learning and delivering impactful solutions.  
