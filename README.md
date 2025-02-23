@@ -81,10 +81,9 @@ Results-oriented Data Analyst with a passion for turning raw data into meaningfu
 - **Client-Centric Approach**: I focus on understanding the client’s needs and delivering solutions that align with their business goals.  
 
 ---
-
-## 📞 **Let’s Connect!**  
-I’m always open to new opportunities and collaborations. Feel free to reach out:  
-- - **Email**: [omarrageb341@gmail.com](mailto:omarrageb341@gmail.com)
-- - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/omar-rageb)
-- **Phone**: [01005506286]  
  
+## 📞 **Let’s Connect!**
+I'm always open to new opportunities and collaborations. Feel free to reach out:
+- **Email**: [omarrageb341@gmail.com](mailto:omarrageb341@gmail.com)  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/omar-rageb)  
+- **Phone**: [01005506286](tel:+201005506286)  
