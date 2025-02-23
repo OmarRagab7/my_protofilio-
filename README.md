@@ -82,15 +82,9 @@ Results-oriented Data Analyst with a passion for turning raw data into meaningfu
 
 ---
 
-## 📂 **GitHub Portfolio**  
-Explore my projects and code on GitHub:  
-[![GitHub Profile](https://img.shields.io/badge/GitHub-OmarRagab7-blue)](https://github.com/OmarRagab7)  
-
----
-
 ## 📞 **Let’s Connect!**  
 I’m always open to new opportunities and collaborations. Feel free to reach out:  
-- **Email**: [Gmail Link](omarrageb341@gmail.com)  
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/omar-rageb) 
+- - **Email**: [omarrageb341@gmail.com](mailto:omarrageb341@gmail.com)
+- - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/omar-rageb)
 - **Phone**: [01005506286]  
  
