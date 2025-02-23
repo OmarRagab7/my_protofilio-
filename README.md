@@ -2,7 +2,7 @@
 ![Data Analyst Logo](https://img.icons8.com/color/48/000000/data-configuration.png) 
 
 ## 👤 Profile  
-Highly motivated and detail-oriented Data Analyst with expertise in data analysis, visualization, and business intelligence. Skilled in extracting actionable insights from complex datasets to drive data-driven decision-making. Proficient in advanced analytical tools and techniques, with a commitment to continuous learning and delivering impactful solutions.  
+Results-oriented Data Analyst with a passion for turning raw data into meaningful insights. Specializing in data analysis, visualization, and business intelligence, I excel at uncovering trends, identifying opportunities, and delivering data-driven solutions that drive business success. With a strong foundation in advanced analytical tools and techniques, I am dedicated to helping organizations make informed decisions and achieve their strategic objectives.  
 
 ---
 
