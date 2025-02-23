@@ -86,4 +86,4 @@ Results-oriented Data Analyst with a passion for turning raw data into meaningfu
 I'm always open to new opportunities and collaborations. Feel free to reach out:
 - **Email**: [omarrageb341@gmail.com](mailto:omarrageb341@gmail.com)  
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/omar-rageb)  
-- **Phone**: [01005506286](tel:+201005506286)  
+-  **Phone**: [01005506286](tel:+201005506286)  
