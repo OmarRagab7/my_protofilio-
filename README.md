@@ -40,8 +40,9 @@ Results-oriented Data Analyst with a passion for turning raw data into meaningfu
   - Gained hands-on experience in data analysis, visualization, and business intelligence tools.  
 
 - **Certifications**:  
-  ![Microsoft Certified](https://img.shields.io/badge/Microsoft_Certified-Data_Analyst_Associate-blue)  
-  ![Tableau Desktop Specialist](https://img.shields.io/badge/Tableau_Desktop_Specialist-Intermediate-orange)  
+  [![Microsoft Certified](https://img.shields.io/badge/Microsoft_Certified-Data_Analyst_Associate-blue)](https://learn.microsoft.com/en-us/certifications/data-analyst-associate/)  
+  [![Introduction to Career Skills in Data Analytics](https://img.shields.io/badge/Tableau_Desktop_Specialist-Intermediate-orange)](https://drive.google.com/file/d/17hWuoivS6UkOgGs21Uzld96Sz2G0YrN1/view?usp=sharing)  
+
 
 ---
 
