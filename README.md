@@ -54,7 +54,7 @@ Results-oriented Data Analyst with a passion for turning raw data into meaningfu
 
 ## 💼 **Projects**  
 
-### **1. COVID-19 Portfolio Project | SQL & Tableau**  
+### **1. COVID-19 Cases Dashboard | SQL & Tableau**  
 <a href="https://github.com/OmarRagab7/Covid19_project" target="_blank">
     <img src="profile/image2.png" alt="COVID-19 Dashboard" style="width: 100%; max-width: 600px; border-radius: 10px; margin-bottom: 10px;">
 </a>  
