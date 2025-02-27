@@ -1,5 +1,5 @@
 ## Data Analyst | BI Developer  
-<img src="profile/gg.jpg" alt="Business Intelligence" width="120" style="border-radius: 10px;"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4140/4140037.png" alt="Dashboard Insights" width="80" style="border-radius: 10px;"/>
 
 
 ## 👤 Profile  
