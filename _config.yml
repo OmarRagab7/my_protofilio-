@@ -5,3 +5,6 @@ logo: /profile/photo.jpg
 description: Turning Data into Actionable Insights .
 
 theme: jekyll-theme-minimal
+
+show_downloads: false
+
