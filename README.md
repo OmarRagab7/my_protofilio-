@@ -45,7 +45,7 @@ Results-oriented Data Analyst with a passion for turning raw data into meaningfu
 - **Microsoft SQL - DataCamp**  
   [![View Certificate](https://img.shields.io/badge/🎓-View_Certificate-blue?style=for-the-badge)](https://drive.google.com/file/d/1v5Gp7zlU5Y1wOA__w3NuLtHk_use-kMN/view?usp=drive_link)  
 
-- **Tableau Desktop Specialist - Intermediate**  
+- **Data Analysis - LinkedIn**  
   [![View Certificate](https://img.shields.io/badge/🎓-View_Certificate-orange?style=for-the-badge)](https://drive.google.com/file/d/17hWuoivS6UkOgGs21Uzld96Sz2G0YrN1/view?usp=sharing)  
 
 
