@@ -55,24 +55,23 @@ Results-oriented Data Analyst with a passion for turning raw data into meaningfu
 
 ### **1. COVID-19 Portfolio Project | SQL & Tableau**  
 <a href="https://github.com/OmarRagab7/Covid19_project" target="_blank">
-    <img src="images/covid19_dashboard.png" alt="COVID-19 Dashboard" style="width: 100%; max-width: 600px; border-radius: 10px; margin-bottom: 10px;">
+    <img src="profile/image2.png" alt="COVID-19 Dashboard" style="width: 100%; max-width: 600px; border-radius: 10px; margin-bottom: 10px;">
 </a>  
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue)](https://github.com/OmarRagab7/Covid19_project)  
 
 - Conducted a comprehensive analysis of global COVID-19 data, including infection rates, mortality rates, and vaccination trends.  
-- Built interactive dashboards in Tableau to visualize key metrics such as:  
-  - Global and continental mortality rates.  
-  - Country-specific infection and recovery trends.  
-  - Vaccination progress across regions.  
-- **Impact**: Enabled stakeholders to make data-driven decisions during the pandemic.  
+- Built interactive dashboards in Tableau to visualize key metrics.  
 
 ---
 
 ### **2. Road Accident Dashboard | Advanced Excel & Power Query**  
 <a href="https://github.com/OmarRagab7/Data_Analysis_Dashboard" target="_blank">
-    <img src="images/road_accident_dashboard.png" alt="Road Accident Dashboard" style="width: 100%; max-width: 600px; border-radius: 10px; margin-bottom: 10px;">
+    <img src="profile/image1.png" alt="Road Accident Dashboard" style="width: 100%; max-width: 600px; border-radius: 10px; margin-bottom: 10px;">
 </a>  
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue)](https://github.com/OmarRagab7/Data_Analysis_Dashboard)  
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue)](https://github.com/OmarRagab7/Data_Analysis_Dashboard)
 
 - Developed a dynamic Excel dashboard using Power Query and Pivot Tables to analyze road accident data.  
 - Key insights included:  
@@ -80,6 +79,7 @@ Results-oriented Data Analyst with a passion for turning raw data into meaningfu
   - Analysis of casualty types, vehicle types, and road conditions.  
   - Geographic hotspots for accidents.  
 - **Impact**: Provided actionable insights to improve road safety measures and reduce accidents.  
+  
 
 ---
 
