@@ -54,7 +54,11 @@ Results-oriented Data Analyst with a passion for turning raw data into meaningfu
 ## 💼 **Projects**  
 
 ### **1. COVID-19 Portfolio Project | SQL & Tableau**  
-[![View Project on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue)](https://github.com/OmarRagab7/Covid19_project)  
+<a href="https://github.com/OmarRagab7/Covid19_project" target="_blank">
+    <img src="images/covid19_dashboard.png" alt="COVID-19 Dashboard" style="width: 100%; max-width: 600px; border-radius: 10px; margin-bottom: 10px;">
+</a>  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue)](https://github.com/OmarRagab7/Covid19_project)  
+
 - Conducted a comprehensive analysis of global COVID-19 data, including infection rates, mortality rates, and vaccination trends.  
 - Built interactive dashboards in Tableau to visualize key metrics such as:  
   - Global and continental mortality rates.  
@@ -65,7 +69,11 @@ Results-oriented Data Analyst with a passion for turning raw data into meaningfu
 ---
 
 ### **2. Road Accident Dashboard | Advanced Excel & Power Query**  
-[![View Project on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue)](https://github.com/OmarRagab7/Data_Analysis_Dashboard)  
+<a href="https://github.com/OmarRagab7/Data_Analysis_Dashboard" target="_blank">
+    <img src="images/road_accident_dashboard.png" alt="Road Accident Dashboard" style="width: 100%; max-width: 600px; border-radius: 10px; margin-bottom: 10px;">
+</a>  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue)](https://github.com/OmarRagab7/Data_Analysis_Dashboard)  
+
 - Developed a dynamic Excel dashboard using Power Query and Pivot Tables to analyze road accident data.  
 - Key insights included:  
   - Monthly trends in accidents for 2021 and 2022.  
