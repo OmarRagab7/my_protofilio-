@@ -1,5 +1,5 @@
 # Data Analyst | BI Developer  
-![Dashboard Insights](https://cdn-icons-png.flaticon.com/512/4140/4140037.png)
+<img src="https://cdn-icons-png.flaticon.com/512/4140/4140037.png" alt="Dashboard Insights" width="80" style="border-radius: 10px;"/> 
 
 ## 👤 Profile  
 Results-oriented Data Analyst with a passion for turning raw data into meaningful insights. Specializing in data analysis, visualization, and business intelligence, I excel at uncovering trends, identifying opportunities, and delivering data-driven solutions that drive business success. With a strong foundation in advanced analytical tools and techniques, I am dedicated to helping organizations make informed decisions and achieve their strategic objectives.  
